@@ -55,4 +55,4 @@ py -3 -m unittest discover -s tests -v
 
 ## 许可证
 
-本版本尚未由仓库所有者指定开源许可证；即使仓库公开可见，也不代表自动允许复制、修改或再分发。若准备开源，请先选择并添加 `LICENSE`。
+本项目采用 [MIT License](LICENSE) 开源。Copyright (c) 2026 Knarf-Z。允许使用、修改、分发和商业使用，但必须保留原版权声明和许可证文本。
