@@ -103,4 +103,4 @@ An end-to-end test requires authenticated `claude` and Codex Desktop on your own
 
 ## License
 
-No open-source license has been selected yet. Public visibility alone does **not** grant reuse rights; the repository owner should choose a license before inviting external contributions.
+This project is licensed under the [MIT License](LICENSE). Copyright (c) 2026 Knarf-Z. You may use, modify, distribute, and commercially use the code under the terms of the license; retain the copyright and license notices.
